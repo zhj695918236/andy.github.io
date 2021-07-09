@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Learn Documentation</title>
+    <link>http://andy.github.io/</link>
+    <description>Recent content on Hugo Learn Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Jun 2021 16:25:38 +0800</lastBuildDate><atom:link href="http://andy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>—_Index</title>
+      <link>http://andy.github.io/%E7%AC%AC%E4%B8%80%E7%AB%A0/_index/</link>
+      <pubDate>Wed, 30 Jun 2021 16:11:36 +0800</pubDate>
+      
+      <guid>http://andy.github.io/%E7%AC%AC%E4%B8%80%E7%AB%A0/_index/</guid>
+      <description>Chapter X Some Chapter title import &amp;#34;fmt&amp;#34; func main(){ var num=1 fmt.println(num) } </description>
+    </item>
+    
+  </channel>
+</rss>
